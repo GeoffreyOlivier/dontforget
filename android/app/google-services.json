@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "209739245425",
+    "project_id": "dontforget-d933d",
+    "storage_bucket": "dontforget-d933d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209739245425:android:07ebd385a4cf3604ec78d0",
+        "android_client_info": {
+          "package_name": "com.mycompany.dontforget"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyQyLZuCRj_FeAD4W6tD1AkZuu6kRzmlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209739245425:android:204e776dc572b873ec78d0",
+        "android_client_info": {
+          "package_name": "fr.dontforget.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyQyLZuCRj_FeAD4W6tD1AkZuu6kRzmlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
